@@ -1,6 +1,6 @@
 # Manejo de Grados de movimiento de un servomotor
 
-_Codigo ARDUINO UNO, sobre manej de grados de movimiento de un servomotor, controlado por un boton pulsador_
+_Codigo ARDUINO UNO, sobre manejo de grados de movimiento de un servomotor, controlado por un boton pulsador_
 
 ## Construido con 🛠️
 
